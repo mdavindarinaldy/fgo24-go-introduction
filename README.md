@@ -6,7 +6,7 @@ This project was made by Muhammad Davinda Rinaldy in Kodacademy Training Program
 
 1. Clone this project
 ```
-git clone https://github.com/mdavindarinaldy/fgo24-dom-traffic-light.git
+git clone https://github.com/mdavindarinaldy/fgo24-golang-basic.git
 ``` 
 2. Run the project
 ```
