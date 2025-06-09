@@ -1,4 +1,4 @@
-# Project DOM - Traffic Light
+# Project GO
 
 This project was made by Muhammad Davinda Rinaldy in Kodacademy Training Program. This project uses Go Language to calculate circumference and area of a circle.
 
